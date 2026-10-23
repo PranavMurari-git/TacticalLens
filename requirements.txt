@@ -1,0 +1,8 @@
+streamlit>=1.50
+anthropic>=0.40
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+mplsoccer>=1.4
+requests>=2.31
+pytest>=8.0
